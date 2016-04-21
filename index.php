@@ -3,7 +3,6 @@ include_once 'view/inc/meta.php';
 ?>
 
 <body class="w3-light-grey w3-content" style="max-width:1600px">
-    <h1>ICI index.php root</h1>
 
     <?php
     include_once 'view/inc/nav.php';
@@ -85,25 +84,14 @@ include_once 'view/inc/meta.php';
         </div>
 
         <!-- Footer -->
-        <?php 
-        include_once 'view/inc/footer.php'; 
+        <?php
+        include_once 'view/inc/footer.php';
         ?>
 
         <!-- End page content -->
     </div>
 
-    <script>
-        // Script to open and close sidenav
-        function w3_open() {
-            document.getElementsByClassName("w3-sidenav")[0].style.display = "block";
-            document.getElementsByClassName("w3-overlay")[0].style.display = "block";
-        }
-
-        function w3_close() {
-            document.getElementsByClassName("w3-sidenav")[0].style.display = "none";
-            document.getElementsByClassName("w3-overlay")[0].style.display = "none";
-        }
-    </script>
+    <?php include_once 'view/js/w3-sidenav.php'; ?>
 
 </body>
 </html>

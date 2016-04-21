@@ -15,7 +15,7 @@
             <a href="#" class="w3-padding w3-text-teal">HOME</a>
             <a href="#work" class="w3-padding">WORK</a>
             <a href="#skills" class="w3-padding">SKILLS</a>
-            <a href="../index.php" class="w3-padding">PORTFOLIO</a>
+            <a href="#" class="w3-padding">PORTFOLIO</a>
             <!-- Modal form -->
             <button onclick="document.getElementById('me').style.display = 'block'" class="w3-btn w3-hover-teal">CONTACT</button>
             <div id="me" class="w3-modal">
