@@ -15,7 +15,7 @@ include_once 'inc/head.php';
             <form class="col-md-12 well" action="" method="POST" name="connexion">
                 <h2 class="text-center">
                     <span class="glyphicon glyphicon-off"></span>
-                    <br />Connexion
+                    <br /> Connection 
                 </h2>
 
                 <?php
