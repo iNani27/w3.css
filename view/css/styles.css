@@ -1,3 +1,11 @@
+/* 
+    Document   : styles
+    Created on : 20-avr.-2016, 09:39:17
+    Author     : Isabelle NANI <admin@it-nani.net>
+    Description:
+        General styles
+*/
+
 html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 .w3-sidenav a,.w3-sidenav h4 {font-weight:bold}
 .w3-myfont {
