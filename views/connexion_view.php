@@ -37,7 +37,7 @@ include_once 'inc/head.php';
                     <input class="form-control" name="lepass" type="password" placeholder="Password" />
                 </div>
                 <div class="input-group btn btn-block"> 
-                    <input type="submit" value="Connexion" />
+                    <input type="submit" value="Connection" />
                 </div>
 
             </form>
