@@ -1,4 +1,4 @@
-﻿<h1><?php echo $work_heading; ?></h1>
+<h1><?php echo $work_heading; ?></h1>
 <p class="w3-xlarge w3-text-white">Ooops. The page couldn't be found.</p>
 
 <div class="transform-translate">

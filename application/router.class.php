@@ -58,7 +58,7 @@ class router {
 	/*** check the route ***/
 	$this->getController();
 
-	/*** if the file is not there diaf ***/
+	/*** if the file is not there ***/
 	if (is_readable($this->file) == false)
 	{
 		$this->file = $this->path.'/error404.php';
