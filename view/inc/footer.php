@@ -13,7 +13,7 @@
                 <li class="w3-padding-16">
                     <img src="view/img/isabelleNaniSqR.png" class="w3-left w3-margin-right" style="width:30px">
                     <span class="w3-large">
-                        <a href="#" target="_blank" class="w3-padding w3-text-teal">PORTFOLIO</a> 
+                        <a href="view/print_cv.php" target="_blank" class="w3-padding w3-text-teal">Resume</a> 
                         <i class="w3-tiny fa fa-external-link"></i>
                     </span>
                 </li>

@@ -13,7 +13,7 @@
                 <p><span class="w3-animate-opacity w3-text-grey">Web Developer</span></p>
             </div>
             <a href="#" class="w3-padding w3-text-teal">HOME</a>
-            <a href="#work" class="w3-padding">WORK</a>
+            <a href="view/works.php" class="w3-padding">WORK</a>
             <a href="#skills" class="w3-padding">SKILLS</a>
             <a href="#" class="w3-padding">PORTFOLIO</a>
             <!-- Modal form -->
