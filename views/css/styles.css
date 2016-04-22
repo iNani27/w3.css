@@ -1,0 +1,27 @@
+/* 
+    Document   : styles
+    Created on : 20-avr.-2016, 09:39:17
+    Author     : Isabelle NANI <admin@it-nani.net>
+    Description:
+        General styles
+*/
+
+html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+.w3-sidenav a,.w3-sidenav h4 {font-weight:bold}
+.w3-myfont {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.w3-tangerine {
+    font-family: 'Tangerine', serif;
+}
+.w3-lobster {
+    font-family: "Lobster", Sans-serif;
+}
+.w3-font-2{
+    font-size:2em;
+}
+.w3-font-3{
+    font-size:3em;
+}
+.w3-letter-spacing{ letter-spacing: 2px;}
+ul{ list-style-type: circle;}
