@@ -20,8 +20,8 @@ include_once 'inc/head.php';
 
                 <?php
                 // si erreur on l'affiche
-                if (isset($erreur_connect)) {
-                    echo "<div class='btn btn-info btn-block'>$erreur_connect</div>";
+                if (isset($erreur)) {
+                    echo "<div class='btn btn-info btn-block'>$erreur</div>";
                 }
                 ?>
                 <div class="input-group">

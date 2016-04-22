@@ -34,7 +34,7 @@ if(isset($_POST['lelogin'])){
         // redirection
         header("Location: ./");
     }else{ // sinon
-        $erreur = "Login et/ou mot de passe incorrectes";
+        $erreur = "Incorrect login and/or password. Please try again.";
     }
 }
 
