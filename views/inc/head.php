@@ -28,7 +28,7 @@
         <![endif]-->
         
         <link rel="stylesheet" href="views/css/styles.css">
-        <!-- <link rel="stylesheet" href="views/css/print_cv.css">-->
         <link rel="stylesheet" href="views/css/connect_form_styles.css">
+        <link rel="stylesheet" href="views/css/theme.css">
     </head>
 

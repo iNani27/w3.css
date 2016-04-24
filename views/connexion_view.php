@@ -1,6 +1,3 @@
-<?php
-include_once 'inc/head.php';
-?>
 <body>
     <div id="container">
         <div class="row">
@@ -21,7 +18,8 @@ include_once 'inc/head.php';
                 <?php
                 // si erreur on l'affiche
                 if (isset($erreur)) {
-                    echo "<div class='btn btn-info btn-block'>$erreur</div>";
+                    echo "<div class='btn btn-info btn-block'>$erreur";
+                    echo " or go to home page <a href='index.php' class='w3-btn w3-round-xxlarge w3-theme w3-hover-theme'>HOME</a></div>";
                 }
                 ?>
                 <div class="input-group">
@@ -43,6 +41,8 @@ include_once 'inc/head.php';
             </form>
         </div>
     </div>
-    <?php include_once 'js/Bs-jQ.php'; ?>
+
 </body>
 </html>
+
+
