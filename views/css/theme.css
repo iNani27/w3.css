@@ -1,0 +1,39 @@
+/* 
+    Document   : print_cv
+    Created on : 22-avr.-2016, 11:38:18
+    Author     : Isabelle NANI <admin@it-nani.net>
+    Description:
+        temp. cv styles
+*/
+
+.w3-font-code{font-family: "Lucida Console", Monaco, monospace;}
+ul{ list-style-type: none;margin:0;padding:0 7px;list-style-position: inside;}
+
+.material-icons,.fa {vertical-align:-14%}
+
+/* Theme blue */
+
+.w3-theme-l5 {color:#000 !important; background-color:#f2f9fe !important}
+.w3-theme-l4 {color:#000 !important; background-color:#d2eafd !important}
+.w3-theme-l3 {color:#000 !important; background-color:#a6d4fa !important}
+.w3-theme-l2 {color:#000 !important; background-color:#79bff8 !important}
+.w3-theme-l1 {color:#fff !important; background-color:#4daaf6 !important}
+.w3-theme-d1 {color:#fff !important; background-color:#0c87eb !important}
+.w3-theme-d2 {color:#fff !important; background-color:#0b78d1 !important}
+.w3-theme-d3 {color:#fff !important; background-color:#0a69b7 !important}
+.w3-theme-d4 {color:#fff !important; background-color:#085a9d !important}
+.w3-theme-d5 {color:#fff !important; background-color:#074b83 !important}
+
+.w3-theme-light {color:#000 !important; background-color:#f2f9fe !important}
+.w3-theme-dark {color:#fff !important; background-color:#074b83 !important}
+.w3-theme-action {color:#fff !important; background-color:#074b83 !important}
+
+.w3-theme {color:#fff !important; background-color:#2196f3 !important}
+.w3-text-theme {color:#2196f3 !important}
+.w3-text-theme-d1 {color:#0c87eb !important}
+.w3-theme-border {border-color:#2196f3 !important}
+.w3-hover-theme:hover {color:#fff !important; background-color:#2196f3 !important}
+
+.no-spacing div{padding: 0;}
+p{margin:5px;}
+
